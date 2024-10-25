@@ -4,7 +4,8 @@ export const placeSlice = createSlice({
   name: 'placesData',
   initialState: {
     data: [],
-    suggestedPlace: []
+    suggestedPlace: [],
+    isRecommendedShow: true
   },
   reducers: {
     fetchPlacesData: (state, action) => {
@@ -22,8 +23,9 @@ export const placeSlice = createSlice({
       state.data = updatedData;
     },
     showRandomSuggestion: (state, { payload }) => {
-      const { randomSuggestionData } = payload
+      const { randomSuggestionData, isRecommendedShow } = payload
       state.suggestedPlace = randomSuggestionData;
+      state.isRecommendedShow = isRecommendedShow;
     }
   },
 })

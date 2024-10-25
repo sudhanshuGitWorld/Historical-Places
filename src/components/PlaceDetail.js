@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useNavigate } from 'react-router-dom';
 import Header from './Header';
 import Badge from './Badge';
-import { updateVisitStatus } from '../slices/placeSlice';
+import { updateVisitStatus, showRandomSuggestion } from '../slices/placeSlice';
 import { updateRouteStatus } from '../slices/routeStatusSlice';
 import {
     HOME,
@@ -27,7 +27,12 @@ const PlaceDetail = () => {
     const returnToHome = () => {
         navigate('/');
         dispatch(updateRouteStatus({ isReturnToHome: true }))
+        dispatch(showRandomSuggestion({ isRecommendedShow: true }));
     }
+
+    useEffect(() => {
+      dispatch(showRandomSuggestion({ isRecommendedShow: false }));
+    }, [dispatch])
 
     return (
       <div>

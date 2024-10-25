@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Historical Places
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This is historical places project.
+- User can find many places and get recommended suggestion as well.
+- Application is fully responsive for all devices.
 
 ## Available Scripts
 
-In the project directory, you can run:
+- In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Application Guide:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home Page
+- User will land on home page, Which will show all places.
 
-### `npm run build`
+#### Home page includes as below:
+   - Header: Title, Recommended button (random suggestion), user logo.
+   - All places images.
+   - Images has visited or not visited badge.
+   - Place about with ellipses.
+   - Button: Mark as Visited, Mark as Not Visited, View Details.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Events:
+   - Home page is fetching all places from api, which is created by me using mockapi.io.
+   - User can click on Recommended button and can see random suggestion.
+   - When user will click on "Historical Place" (header title). Then he can see again all places.
+   - Images and card buttons have hover effect.
+   - When user will click on Mark As Visited, The Not Visited badge will change to Visited.
+   - When user will click on Mark As Not Visited, The Visited badge will change to Not Visited.
+   - When user will click on View Details button, It will navigate to selected place.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Place Detail
+- After View Details, user will land on place detail page.
 
-### `npm run eject`
+#### Place page includes as below:
+    - Breadcrumb to return Home page.
+    - Selected place image.
+    - Selected place full description with it's title.
+    - Button: Mark as Visited, Mark as Not Visited.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### Events:
+    - User can click on Home breadcrumb to return home page
+    - When user will click on Mark As Visited, The Not Visited badge will change to Visited.
+    - When user will click on Mark As Not Visited, The Visited badge will change to Not Visited.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## GitHub Url
+- https://github.com/sudhanshuGitWorld/Historical-Places
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Feedback
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any feedback, please post me at developer.sudhanshush@gmail.com
