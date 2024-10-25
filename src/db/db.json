@@ -1,0 +1,98 @@
+[
+    {
+      "id": "1",
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106681000,width-748,height-499,resizemode=4,imgsize-185280/Angkor-Wat-Cambodia.jpg",
+      "isVisited": true,
+      "about": "This monumental temple complex in Siem Reap, Cambodia, is the largest religious monument in the world.",
+      "description": "The city of Angkor served as the royal center from which a dynasty of Khmer kings ruled one of the largest, most prosperous, and most sophisticated kingdoms in the history of Southeast Asia. From the end of the 9th century until early in the 13th century, numerous construction projects were undertaken, the most notable of which was Angkor Wat. It was built by Suryavarman II as a vast funerary temple within which his remains were to be deposited. Construction is believed to have spanned some three decades.Angkor Wat is a Hindu-Buddhist temple complex in Cambodia. Located on a site measuring 162.6 hectares within the ancient Khmer capital city of Angkor, it is considered the largest religious structure in the world by Guinness World Records."
+    },
+    {
+      "id": "2",
+      "name": "Great Wall of China, China",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680999,width-748,height-499,resizemode=4,imgsize-184594/Great-Wall-of-China-China.jpg",
+      "isVisited": false,
+      "about": "This extraordinary feat of ancient engineering consists of various sections built over centuries to protect against invasions. The wall is approximately 21, 196 km long.",
+      "description": "Great Wall of China, extensive bulwark erected in ancient China, one of the largest building-construction projects ever undertaken. The Great Wall actually consists of numerous walls—many of them parallel to each other—built over some two millennia across northern China and southern Mongolia. The most extensive and best-preserved version of the wall dates from the Ming dynasty (1368–1644) and runs for some 5,500 miles (8,850 km) east to west from Mount Hu near Dandong, southeastern Liaoning province, to Jiayu Pass west of Jiuquan, northwestern Gansu province. Nearly all of the rest (about 70 percent of the total length) is actual constructed wall, with the small remaining stretches constituting ditches or moats. Although lengthy sections of the wall are now in ruins or have disappeared completely, it is still one of the more remarkable structures on Earth. The Great Wall was designated a UNESCO World Heritage site in 1987."
+    },
+    {
+      "id": "3",
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680997,width-748,height-499,resizemode=4,imgsize-106400/Taj-Mahal-India.jpg",
+      "isVisited": true,
+      "about": "The popularity of Taj Mahal goes beyond borders. The Taj Mahal, also a UNESCO World Heritage site, is an architectural masterpiece. The structure was built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
+      "description": "Taj Mahal, mausoleum complex in Agra, western Uttar Pradesh state, northern India. The Taj Mahal was built by the Mughal emperor Shah Jahān (reigned 1628–58) to immortalize his wife Mumtaz Mahal (“Chosen One of the Palace”), who died in childbirth in 1631, having been the emperor’s inseparable companion since their marriage in 1612. India’s most famous and widely recognized building, it is situated in the eastern part of the city on the southern (right) bank of the Yamuna (Jumna) River. Agra Fort (Red Fort), also on the right bank of the Yamuna, is about 1 mile (1.6 km) west of the Taj Mahal."
+    },
+    {
+      "id": "4",
+      "name": "Kyoto, Japan",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680996,width-748,height-499,resizemode=4,imgsize-228512/Kyoto-Japan.jpg",
+      "isVisited": false,
+      "about": "The entire city of Kyoto is steeped in history. The former imperial capital of Japan boasts numerous temples, shrines, and traditional wooden houses.",
+      "description": "Kyōto, city, seat of Kyōto fu (urban prefecture), west-central Honshu island, Japan. It is located some 30 miles (50 km) northeast of the industrial city of Ōsaka and about the same distance from Nara, another ancient centre of Japanese culture. Gently sloping downward from north to south, the city averages 180 feet (55 metres) above sea level. Kyōto fu is at the centre of Kinki chihō (region). The city is one of the centres (with nearby Ōsaka and Kōbe) of the Keihanshin Industrial Zone, the second largest urban and industrial agglomeration in Japan."
+    },
+    {
+      "id": "5",
+      "name": "Borobudur, Indonesia",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680994,width-748,height-499,resizemode=4,imgsize-237348/Borobudur-Indonesia.jpg",
+      "isVisited": true,
+      "about": "Borobudur is a UNESCO World Heritage site and is the world's largest Buddhist temple. The temple complex, built in the 9th century, consists of nine stacked platforms adorned with intricate carvings and 504 Buddha statues.",
+      "description": "Borobudur, massive Buddhist monument in central Java, Indonesia, 26 miles (42 km) northwest of Yogyakarta. The Borobudur monument combines the symbolic forms of the stupa (a Buddhist commemorative mound usually containing holy relics), the temple mountain (based on Mount Meru of Hindu mythology), and the mandala (a mystic Buddhist symbol of the universe, combining the square as earth and the circle as heaven). The style of Borobudur was influenced by Indian Gupta and post-Gupta art. The monument was designated a UNESCO World Heritage site in 1991."
+    },
+    {
+      "id": "6",
+      "name": "Petra, Jordan",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680991,width-748,height-499,resizemode=4,imgsize-164668/Petra-Jordan.jpg",
+      "isVisited": false,
+      "about": "The historic city of Petra, also known as the Rose City, is a UNESCO World Heritage site. This ancient Nabatean city is carved into the rose-red cliffs of southern Jordan. The most famous structure is Al-Khazneh (The Treasury).",
+      "description": "Petra is half-built, half-carved into the rock, and is surrounded by mountains riddled with passages and gorges. It is one of the world's most famous archaeological sites, where ancient Eastern traditions blend with Hellenistic architecture. The most famous structure is Al-Khazneh (The Treasury). It’s impossible to ignore the site’s remarkable architectural beauties. Famous for its rock-cut architecture, the city is an important archeologic site and Jordan's biggest tourist attraction. Petra is referred to as the “Rose City”"
+    },
+    {
+      "id": "7",
+      "name": "Bagan, Myanmar",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680990,width-748,height-499,resizemode=4,imgsize-79572/Bagan-Myanmar.jpg",
+      "isVisited": true,
+      "about": "Bagan is an ancient city and a UNESCO World Heritage Site in the Mandalay Region of Myanmar. From the 9th to 13th centuries.",
+      "description": "Located in Central Myanmar, only 4 hours away from Mandalay, Bagan is one the world’s greatest archaeological sites. Visit this amazing historical town hosting more than 2,200 temples big and small. Set amongst thick greenery on the Ayeyarwady river basin with misty mountains at a distance, Bagan will surely enchant you with its mystical appearance. The temples rise above the canopy of trees, presenting a picture-perfect scenery to visitors. Bagan was the first capital of the Pagan Kingdom between the 9th to 13th centuries. More than 10,000 Buddhist temples, pagodas and monasteries were constructed during the most flourishing days of the Kingdom between the 11th to 13th centuries. Today, around 2,200 temples and pagodas still survive and are carefully looked after by the government."
+    },
+    {
+      "id": "8",
+      "name": "Gyeongbokgung, South Korea",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-106680989,width-748,height-499,resizemode=4,imgsize-207616/Gyeongbokgung-Palace-South-Korea.jpg",
+      "isVisited": true,
+      "about": "Gyeongbokgung, located in Seoul, is the largest and most iconic of the Five Grand Palaces built during the Joseon Dynasty.",
+      "description": "The palace complex includes the impressive Geunjeongjeon Hall, the Gyeonghoeru Pavilion overlooking a serene pond, and the changing of the guard ceremony at the main gate.Gyeongbokgung Palace was destroyed during the Japanese invasion in 1592 (the 25th year of King Seonjo). It was left in ruins for many years, only to be restored in 1867 (the 4th year of King Gojong), 270 years after the war’s end. During the restoration by King Gojong, the palace was added with new buildings such as Geoncheonggung Palace, Taewonjeon Hall, and Jibokjae. In particular, Okhoru Pavilion at Geoncheonggung Palace is where the tragic incident of the Assassination of Empress Myeongseong (1895) took place."
+    },
+    {
+      "id": "9",
+      "name": "Pyramids of Giza",
+      "imageUrl": "https://static2.tripoto.com/media/filter/nl/img/2189965/TripDocument/1637839570_egypt_cairo_pyramids_of_giza_and_camels_2.jpg",
+      "isVisited": false,
+      "about": "One of the seven wonders of the ancient world, and also amongst the most iconic,the Pyramids of Giza are a famous tourist attraction site.",
+      "description": "The pyramids were built around 2560 and 2540 BC, and were constructed as tombs for the Pharaohs. Three larger and three smaller pyramids, together with the legendary Great Sphinx, form the largest pyramid structure near the modern city of Cairo. Even the most cynical tourist can not deny but be fascinated by the pyramids of Giza's great age, massive scale and dynamic mathematics. The Pyramids of Giza are a famous tourist attraction site. Just outside Cairo, these make an enchanting site in the barrens of dessert."
+    },
+    {
+      "id": "10",
+      "name": "Roman Colosseum, Italy",
+      "imageUrl": "https://www.rome.info/wp-content/uploads/f-colosseum-second-floor.jpg",
+      "isVisited": false,
+      "about": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum.",
+      "description": "The most prominent structure, and one of the most easily recognised, in Rome is undoubtedly the Colosseum. This massive arena, built in the 1st century AD, could accommodate 45,000 spectators and was the world's biggest Roman amphitheater. It witnessed gladiatorial battles, wild beast spectacles and probably the executions of early Christians. In 72 AD, work started on the building and currently it really is one of the world's popular tourist places. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age."
+    },
+    {
+      "id": "11",
+      "name": "Acropolis of Athens, Greece",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTsUmYm_xOntoRcd4BUi_f-jHF3m-AbyrhUfm716ovXgfRKXhP7CUuMmY01CIW418U9sS1bQzMlQ0nDLK7PRBG64J9ari3jfW_V_M0sqQ",
+      "isVisited": false,
+      "about": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece.",
+      "description": "he Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece, and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon. The word Acropolis is from the Greek. The Acropolis serves as a proud shrine to Ancient Greece, presiding over the city of Athens from its atop a hill plinth. The Parthenon is the biggest and most popular framework from this time, dating in between the 5th and 4th centuries BC and defining the site, and exemplifies the established history of this nation."
+    },
+    {
+      "id": "12",
+      "name": "Ellora Caves, India",
+      "imageUrl": "https://aurangabadtourism.in/images/places-to-visit/header/ellora-caves-aurangabad-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+      "isVisited": true,
+      "about": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad district, Maharashtra, India. It is one of the largest rock-cut Hindu temple cave.",
+      "description": "The invaluable ensemble of 34 caves at Ellora in the Charanandri hills of western India’s Maharashtra State showcases a spirit of co-existence and religious tolerance through the outstanding architectural activities carried out by the followers of three prominent religions: Buddhism, Brahmanism, and Jainism. The rock-cut activity was carried out in three phases from the 6th century to the 12th century. The earliest caves (caves 1–12), excavated between the 5th and 8th centuries, reflect the Mahayana philosophy of Buddhism then prevalent in this region. The Brahmanical group of caves (caves 13–29), including the renowned Kailasa temple (cave 16), was excavated between the 7th and 10th centuries. The last phase, between the 9th and 12th centuries, saw the excavation of a group of caves (caves 30–34) reflecting Jaina philosophy."
+    }
+  ]
